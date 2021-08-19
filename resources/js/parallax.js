@@ -10,8 +10,8 @@ window.onload = function () {
     const ship = document.querySelector('.images-parallax__ship');
 
     const forPlanet = 300;
-    const forStation = 60;
-    const forShip = 25;
+    const forStation = 45;
+    const forShip = 14;
 
     const speed = 0.05;
 
